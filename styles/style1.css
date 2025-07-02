@@ -46,10 +46,10 @@ body {
   width: fit-content;
   font-size: 36px;
   text-decoration: none;
-  color: none;
   cursor: pointer;
   margin: 30px auto 60px auto;
   letter-spacing: 20px;
+  opacity: 0;
 }
 
 .songs-box-out {
